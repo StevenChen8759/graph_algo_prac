@@ -1,2 +1,2 @@
-gcc -g graph_struct.c -o ./output/graph_struct
-echo Run: gcc -g graph_struct.c -o ./output/graph_struct
+gcc -g graph_struct.c -o ./graph_struct.exe
+echo Run: gcc -g graph_struct.c -o ./graph_struct.exe
